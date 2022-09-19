@@ -1,0 +1,23 @@
+{
+  "name": "katas",
+  "version": "1.0.0",
+  "description": "<img width=\"48\" alt=\"7kyu\" src=\"https://user-images.githubusercontent.com/104759740/188456615-d337d232-7edc-451e-9abc-7610353564db.png\"> - <a href=\"https://www.codewars.com/kata/55f8a9c06c018a0d6e000132\" target=\"_blank\">Regex validate PIN code</a>",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WHL99/katas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WHL99/katas/issues"
+  },
+  "homepage": "https://github.com/WHL99/katas#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
