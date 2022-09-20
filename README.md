@@ -4,6 +4,8 @@
 
 - <a href="https://www.codewars.com/kata/55f8a9c06c018a0d6e000132" target="_blank">Regex validate PIN code</a>
 
+- <a href="https://www.codewars.com/kata/5aff237c578a14752d0035ae" target="_blank">Predict your age!</a>
+
 <br><br/> 
 
 <img width="42" alt="6kyu" src="https://user-images.githubusercontent.com/104759740/188456454-74251a67-409e-4347-82a0-71e425d52a2a.png">
