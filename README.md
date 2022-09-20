@@ -14,4 +14,6 @@
 
 - <a href="https://www.codewars.com/kata/58f5c63f1e26ecda7e000029" target="_blank">Mexican Wave</a>
 
+- <a href="https://www.codewars.com/kata/55466989aeecab5aac00003e" target="_blank">Rectangle into Squares</a>
+
 <!-- <img width="48" alt="5kyu" src="https://user-images.githubusercontent.com/104759740/188456659-d17a51ec-66e7-4da6-bae5-b8f92ccc6a38.png"> --!>
