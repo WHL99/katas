@@ -6,6 +6,8 @@
 
 - <a href="https://www.codewars.com/kata/5aff237c578a14752d0035ae" target="_blank">Predict your age!</a>
 
+- <a href="https://www.codewars.com/kata/5a4d303f880385399b000001" target="_blank">Strong Number (Special Numbers Series #2)</a>
+
 <br><br/> 
 
 <img width="42" alt="6kyu" src="https://user-images.githubusercontent.com/104759740/188456454-74251a67-409e-4347-82a0-71e425d52a2a.png">
