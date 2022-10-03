@@ -6,6 +6,8 @@
 
 - <a href="https://www.codewars.com/kata/5aff237c578a14752d0035ae" target="_blank">Predict your age!</a>
 
+- <a href="https://www.codewars.com/kata/5a4e3782880385ba68000018" target="_blank">Balanced Number (Special Numbers Series #1)</a>
+
 - <a href="https://www.codewars.com/kata/5a4d303f880385399b000001" target="_blank">Strong Number (Special Numbers Series #2)</a>
 
 <br><br/> 
