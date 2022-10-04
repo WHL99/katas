@@ -10,6 +10,8 @@
 
 - <a href="https://www.codewars.com/kata/5a4d303f880385399b000001" target="_blank">Strong Number (Special Numbers Series #2)</a>
 
+- <a href="https://www.codewars.com/kata/56606694ec01347ce800001b" target="_blank">Is this a triangle?</a>
+
 <br><br/> 
 
 <img width="42" alt="6kyu" src="https://user-images.githubusercontent.com/104759740/188456454-74251a67-409e-4347-82a0-71e425d52a2a.png">
