@@ -29,6 +29,8 @@
 
 - <a href="https://www.codewars.com/kata/5d23d89906f92a00267bb83d" target="_blank">New Cashier Does Not Know About Space or Shift</a>
 
+- <a href="https://www.codewars.com/kata/58d76854024c72c3e20000de" target="_blank">Reverse every other word in the string</a>
+
 
 
 <!-- <img width="48" alt="5kyu" src="https://user-images.githubusercontent.com/104759740/188456659-d17a51ec-66e7-4da6-bae5-b8f92ccc6a38.png"> --!>
