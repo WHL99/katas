@@ -35,7 +35,7 @@
 
 - <a href="https://www.codewars.com/kata/54da5a58ea159efa38000836" target="_blank">Find the odd int</a>
 
-
+- <a href="https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08" target="_blank">Multiplication table</a>
 
 
 <!-- <img width="48" alt="5kyu" src="https://user-images.githubusercontent.com/104759740/188456659-d17a51ec-66e7-4da6-bae5-b8f92ccc6a38.png"> --!>
