@@ -31,6 +31,8 @@
 
 - <a href="https://www.codewars.com/kata/58d76854024c72c3e20000de" target="_blank">Reverse every other word in the string</a>
 
+- <a href="https://www.codewars.com/kata/5266876b8f4bf2da9b000362" target="_blank">Who likes it?</a>
+
 
 
 <!-- <img width="48" alt="5kyu" src="https://user-images.githubusercontent.com/104759740/188456659-d17a51ec-66e7-4da6-bae5-b8f92ccc6a38.png"> --!>
