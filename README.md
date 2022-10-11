@@ -33,6 +33,9 @@
 
 - <a href="https://www.codewars.com/kata/5266876b8f4bf2da9b000362" target="_blank">Who likes it?</a>
 
+- <a href="https://www.codewars.com/kata/54da5a58ea159efa38000836" target="_blank">Find the odd int</a>
+
+
 
 
 <!-- <img width="48" alt="5kyu" src="https://user-images.githubusercontent.com/104759740/188456659-d17a51ec-66e7-4da6-bae5-b8f92ccc6a38.png"> --!>
