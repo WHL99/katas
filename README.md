@@ -39,5 +39,8 @@
 
 - <a href="https://www.codewars.com/kata/51b6249c4612257ac0000005" target="_blank">Roman Numerals Decoder</a>
 
+- <a href="https://www.codewars.com/kata/53046ceefe87e4905e00072a" target="_blank">Palindrome for your Dome</a>
+
+
 
 <!-- <img width="48" alt="5kyu" src="https://user-images.githubusercontent.com/104759740/188456659-d17a51ec-66e7-4da6-bae5-b8f92ccc6a38.png"> --!>
