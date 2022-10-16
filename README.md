@@ -41,6 +41,10 @@
 
 - <a href="https://www.codewars.com/kata/53046ceefe87e4905e00072a" target="_blank">Palindrome for your Dome</a>
 
+- <a href="https://www.codewars.com/kata/5208f99aee097e6552000148" target="_blank">Break camelCase</a>
+
+- <a href="https://www.codewars.com/kata/5298961d9ce954d77b0003a6" target="_blank">The range() function</a>
+
 
 
 <!-- <img width="48" alt="5kyu" src="https://user-images.githubusercontent.com/104759740/188456659-d17a51ec-66e7-4da6-bae5-b8f92ccc6a38.png"> --!>
