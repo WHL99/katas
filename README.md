@@ -45,6 +45,8 @@
 
 - <a href="https://www.codewars.com/kata/5298961d9ce954d77b0003a6" target="_blank">The range() function</a>
 
+- <a href="https://www.codewars.com/kata/584703d76f6cf6ffc6000275" target="_blank">Estimating Amounts of Subsets</a>
+
 
 
 <!-- <img width="48" alt="5kyu" src="https://user-images.githubusercontent.com/104759740/188456659-d17a51ec-66e7-4da6-bae5-b8f92ccc6a38.png"> --!>
